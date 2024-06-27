@@ -1,5 +1,5 @@
 <?php
-$Servidor ="localhost";
+$Servidor ="localhost"; 
 $UsuarioBd = "root";
 $PasswordBd = "";
 $Bd = "atizapani";
